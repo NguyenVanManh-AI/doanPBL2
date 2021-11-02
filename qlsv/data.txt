@@ -1,0 +1,4 @@
+111 Nguyen Van A 7.5 7.25 8
+112 Le Van B 4.3 5.5 7.83
+113 Tran Van C 3 7 3
+114 Pham Quoc D 4 4 4
